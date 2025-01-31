@@ -1,14 +1,11 @@
-# Tap4 AI Crawler
+#  AI Crawler
 
-Tap4 AI Crawler 是由 [tap4.ai](https://tap4.ai) 开发的开源爬虫，它将网站 Url 转换为使用 LLM 总结的网站信息。包括强大的抓取、爬取和数据提取功能，以及网页截图功能。使用 Tap4 AI Crawler，您不仅可以轻松更新 AI 工具目录中的 AI 工具详细信息，还可以生成网站摘要。
+ AI Crawler 它将网站 Url 转换为使用 LLM 总结的网站信息。包括强大的抓取、爬取和数据提取功能，以及网页截图功能。使用 AI Crawler，您不仅可以轻松更新 AI 工具目录中的 AI 工具详细信息，还可以生成网站摘要。
 
 该项目基于 Python，非常轻量级，易于维护，适合对 AI 工具目录感兴趣的个人开发者，也适合对 Python 感兴趣的学习者。我们欢迎大家 fork 和 star。
 
 简体中文 | [English](./README.md)
 
-# 请在 Product Hunt 支持下 Tap4 AI
-
-<a href="https://www.producthunt.com/posts/ai-tools-directory-by-tap4-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;tools&#0045;directory&#0045;by&#0045;tap4&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=464357&theme=light" alt="AI&#0032;Tools&#0032;Directory&#0032;by&#0032;Tap4&#0032;AI - Open&#0045;source&#0032;AI&#0032;navigation&#0032;&#0038;&#0032;discovery&#0032;with&#0032;multi&#0045;language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## 特征
 
@@ -20,16 +17,6 @@ Tap4 AI Crawler 是由 [tap4.ai](https://tap4.ai) 开发的开源爬虫，它将
 
 ![tai4-ai](./images/tap4-ai.png)
 
-## 感谢关注链接
-
-欢迎关注我们的 Twitter: https://x.com/tap4ai
-
-如果觉得项目对你有帮助，欢迎请我喝杯咖啡：
-
-<a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-如果你对项目有兴趣，欢迎添加我微信: helloleo2023, 备注: "tap4 ai 开源"，也可以扫描二维码:
-![tap4-ai-wx](./images/tap4-ai-wechat.jpg)
 
 ## 快速开始
 
@@ -182,30 +169,4 @@ curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer xxxxx
 - LLM 洗出来的内容可能仍然是提示词传过去的模板，这种也是反爬虫引起的问题，需要人工做二次检查
 - 爬虫对服务器配置有一定的要求，Zeabur 上使用免费模式很容易出现无法正常运行问题，建议付费
 
-## 产品链接
 
-### TAP4-AI 导航站
-
-全球 AI 工具导航站，搜集全球主流的 AI 工具，目前支持免费提交收录 AI 工具。更多详情，请访问: [Tap4 AI](https://tap4.ai)
-
-### 如何获得冷启动的第一批用户
-
-以下是提交产品以获取用户的网站列表。请访问
-[StartUp Your Product List](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
-
-### AI 纹身生成器
-
-Tattao AI Design 是为纹身爱好者设计的纹身 AI 生成器和设计工具。如果你对此感兴趣，请访问：
-[Tattoo AI Design](https://tattooai.design)
-
-### Stable Diffusion 3 在线免费工具
-
-[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online)
-
-### 免费的在线图片压缩工具
-
-[Free Type Png Tool](https://freetinypng.com)
-
-### 免费在线 AI 内容检测工具
-
-[Free GPT2 Output Detector](https://openai-openai-detector.com/)

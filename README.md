@@ -1,14 +1,11 @@
-# Tap4 AI Crawler
+#  AI Crawler
 
-Tap4 AI Crawler is an open source web crawler built by [tap4.ai](https://tap4.ai), that will convert the website into the website summarize info with LLM. Includes powerful scraping, crawling and data extraction capabilities, web page screenshots. With Tap4 AI Crawler, you can not only easily update the ai tool detail for your AI Tools Directory but also summary of the website.
+ AI Crawler is an open source web crawler , that will convert the website into the website summarize info with LLM. Includes powerful scraping, crawling and data extraction capabilities, web page screenshots. With  AI Crawler, you can not only easily update the ai tool detail for your AI Tools Directory but also summary of the website.
 
 This project is based on Python, very lightweight, easy to maintain, suitable for individual developers interested in AI tools directories, and also for learners interested in Python. We welcome everyone to fork and star.
 
 English | [简体中文](./README.zh-CN.md)
 
-## Support Tap4 AI in Product Hunt
-
-<a href="https://www.producthunt.com/posts/ai-tools-directory-by-tap4-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;tools&#0045;directory&#0045;by&#0045;tap4&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=464357&theme=light" alt="AI&#0032;Tools&#0032;Directory&#0032;by&#0032;Tap4&#0032;AI - Open&#0045;source&#0032;AI&#0032;navigation&#0032;&#0038;&#0032;discovery&#0032;with&#0032;multi&#0045;language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Features
 
@@ -19,17 +16,6 @@ English | [简体中文](./README.zh-CN.md)
 - Fast deployment
 
 ![tai4-ai](./images/tap4-ai.png)
-
-## Follow and Support Links
-
-Please follow our Twitter: https://x.com/tap4ai
-
-If you find the project helpful, please consider buying me a coffee:
-
-<a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-If you are interested in the project, please add my WeChat: helloleo2023, note: "tap4 ai open source", or scan the QR
-code: ![tap4-ai-wx](./images/tap4-ai-wechat.jpg)
 
 ## Quick Start
 
@@ -184,37 +170,3 @@ Response Params:
 - The content processed by the LLM may still be the template passed through the prompts, which is also caused by anti-scraping measures and requires manual secondary checks.
 - Web scraping requires certain server configurations. It is recommended to purchase paid services from Zeabur and prioritize selecting U.S. nodes.
 
-## Link products
-
-### TAP4-AI-Directory
-
-The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives, prompts, other AI tools, etc. For more, please visit: [Tap4 AI](https://tap4.ai/)
-
-### How to get your first users for startup at the website list
-
-Here is the website list for submitting your product to get users. Please visit [StartUp Your Product List](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
-
-### Flux 1.1 Pro - Free Online Flux.1 AI Image Generator
-
-[Flux 1.1 Pro](https://fluxproweb.com/)
-
-
-### Free Stable Diffusion 3 Online Tool
-
-[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online)
-
-### Free Tiny Png Tool
-
-[Free Type Png Tool](https://freetinypng.com)
-
-### Flux AI - Flux.1 AI Image Generator
-
-[Flux AI](https://flux-ai.io/)
-
-### Free GPT2 Output Detector
-
-[Free GPT2 Output Detector](https://openai-openai-detector.com/)
-
-### The Tattoo AI Generator and Design
-
-Tattoo AI Design is a tattoo AI generator and design tool for tattoo fans. If you are interested, visit [Tattoo AI Design](https://tattooai.design/)

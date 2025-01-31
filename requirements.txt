@@ -7,6 +7,5 @@ groq
 boto3
 datetime
 requests
-Pillow
-sentencepiece
+Pillowsentencepiece
 transformers
