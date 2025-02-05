@@ -1,0 +1,12 @@
+# 忽略 Python 编译文件
+__pycache__/
+*.py[cod]
+
+# 忽略环境变量文件
+.env
+
+# 忽略其他敏感文件
+*.pem
+*.key
+*.crt
+*.p12
